@@ -25,7 +25,6 @@ int main() {
         cout << "No es una vocal" << endl;
     }
 
-    // Proves
     cout << "\nProves:" << endl;
     cout << "a -> " << esVocal('a') << endl;
     cout << "E -> " << esVocal('E') << endl;
